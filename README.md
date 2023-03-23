@@ -20,3 +20,5 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ...
+
+<img src="./assets/images/challenge-1-screenshot.png" alt="Challenge 1 Screenshot"/>
